@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Opera%20GX-Mod-purple?style=for-the-badge&logo=opera" />
-  <img src="https://img.shields.io/github/stars/bigcheesh/saga-light?style=for-the-badge" />
-  <img src="https://img.shields.io/github/downloads/bigcheesh/saga-light/total?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/bigcheesh/saga-lite?style=for-the-badge" />
+  <img src="https://img.shields.io/github/downloads/bigcheesh/saga-lite/total?style=for-the-badge" />
 </div>
 
 <h1 align="center">🌌 Saga Light — A Futuristic Opera GX Mod</h1>

@@ -1,1 +1,7 @@
+# HOW TO DOWNLOAD
 
+1. Click Code then Download ZIP
+2. Open the zip extract to desktop
+3. Then open saga
+4. go to opera gx click extensions turn on developer mode then click load unpacked then select saga light folder
+5. YOUR DONE HAVE FUN!

@@ -1,6 +1,6 @@
 # 📄 License Agreement
 
-**Saga Light** — Custom Opera GX Mod  
+**Saga Lite** — Custom Opera GX Mod  
 **Created by:** Saga ([@bigcheesh](https://github.com/bigcheesh))  
 **Copyright © 2025 Saga**
 

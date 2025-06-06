@@ -36,4 +36,4 @@
 > Get the latest version manually:
 
 ```bash
-git clone https://github.com/yourusername/saga-light.git
+git clone https://github.com/bigcheesh/saga-light.git

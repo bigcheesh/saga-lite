@@ -37,6 +37,6 @@
 
 ```bash
 git clone https://github.com/bigcheesh/saga-light.git
-
+```
 
 <img src="https://your-image-link.com/wallpaper-preview.gif" alt="Saga Light Preview" style="width: 100%; max-width: 700px; border-radius: 12px; display: block; margin: 20px auto;" />

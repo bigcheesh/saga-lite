@@ -32,7 +32,7 @@
 
 ### 📂 2. Extract & Locate
 > 1. Look for: Saga Light.crx
-> 2. Open [opera://configure/mods]
+> 2. [Go to this link](opera://configure/mods)
 > 3. Drag and Drop Saga Light.crx
 > 4. YOUR DONE ENJOY!
 

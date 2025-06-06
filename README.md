@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Light Logo"/>
-  <h1>Saga Light — Opera GX Mod 🌌</h1>
+  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Lite Logo"/>
+  <h1>Saga Lite — Opera GX Mod 🌌</h1>
   <p><strong>Made with ❤️ by Saga (@bigcheesh)</strong></p>
   <p>A beautifully designed custom Opera GX mod with an ultraviolet violet theme, enhanced UI, shaders, sounds, and immersive GX vibes.</p>
   <br />
@@ -25,7 +25,7 @@
 
 > Wallpaper & UI in action:
 
-<img src="https://your-image-link.com/wallpaper-preview.gif" alt="Saga Light Preview" style="border-radius: 12px; width: 100%; max-width: 700px;"/>
+<img src="https://your-image-link.com/wallpaper-preview.gif" alt="Saga Lite Preview" style="border-radius: 12px; width: 100%; max-width: 700px;"/>
 
 ---
 
@@ -36,7 +36,7 @@
 > Get the latest version manually:
 
 ```bash
-git clone https://github.com/bigcheesh/saga-light.git
+git clone https://github.com/bigcheesh/saga-Lite.git
 ```
 
-<img src="https://i.imgur.com/c1aMUYf.png" alt="Saga Light Preview" style="width: 100%; max-width: 700px; border-radius: 12px; display: block; margin: 20px auto;" />
+<img src="https://i.imgur.com/c1aMUYf.png" alt="Saga Lite Preview" style="width: 100%; max-width: 700px; border-radius: 12px; display: block; margin: 20px auto;" />

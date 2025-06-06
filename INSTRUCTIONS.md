@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Light Logo"/>
-  <h1>Saga Light — Opera GX Mod 🌌</h1>
+  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Lite Logo"/>
+  <h1>Saga Lite — Opera GX Mod 🌌</h1>
   <p><strong>Made with ❤️ by Saga (@bigcheesh)</strong></p>
   <p>A beautifully designed custom Opera GX mod with an ultraviolet violet theme, enhanced UI, shaders, sounds, and immersive GX vibes.</p>
   <br />
@@ -24,16 +24,16 @@
 
 ## 📥 How to Install
 
-### 🔗 1. [Download the Saga Light Mod](https://gofile.io/d/ZW7w2R)
+### 🔗 1. [Download the Saga Lite Mod](https://gofile.io/d/ZW7w2R)
 
 > 📁 This ZIP file includes everything you need.
 
 ---
 
 ### 📂 2. Extract & Locate
-1. Look for: Saga Light.crx
+1. Look for: Saga Lite.crx
 2. Go to: opera://configure/mods
-3. Drag and Drop Saga Light.crx
+3. Drag and Drop Saga Lite.crx
 4. YOUR DONE ENJOY!
 
 ### If you need any help look for a video on youtube!

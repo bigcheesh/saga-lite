@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Opera%20GX-Mod-purple?style=for-the-badge&logo=opera" />
-  <img src="https://img.shields.io/github/stars/bigcheesh/saga-lite?style=for-the-badge" />
-  <img src="https://img.shields.io/github/downloads/bigcheesh/saga-lite/total?style=for-the-badge" />
+  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Light Logo"/>
+  <h1>Saga Light — Opera GX Mod 🌌</h1>
+  <p><strong>Made with ❤️ by Saga (@bigcheesh)</strong></p>
+  <p>A beautifully designed custom Opera GX mod with an ultraviolet violet theme, enhanced UI, shaders, sounds, and immersive GX vibes.</p>
+  <br />
+  <img src="https://img.shields.io/badge/Platform-Opera%20GX-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.0-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge" />
 </div>
-
-<h1 align="center">🌌 Saga Light — A Futuristic Opera GX Mod</h1>
-
-<p align="center">
-  <b>Transform your browser into a neon-glow masterpiece.</b><br>
-  Custom sounds, visuals, shaders, music, animations, and more — crafted with ❤️ by <b>Saga</b>.
-</p>
 
 ---
 

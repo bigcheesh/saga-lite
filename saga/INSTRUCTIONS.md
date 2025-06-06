@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/EUe97Tp.png" width="120" alt="Saga Light Logo"/>
+  <img src="https://i.imgur.com/3T3yJIT.png" width="120" alt="Saga Light Logo"/>
   <h1>Saga Light — Opera GX Mod 🌌</h1>
   <p><strong>Made with ❤️ by Saga (@bigcheesh)</strong></p>
   <p>A beautifully designed custom Opera GX mod with an ultraviolet violet theme, enhanced UI, shaders, sounds, and immersive GX vibes.</p>

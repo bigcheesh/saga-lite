@@ -24,7 +24,7 @@
 
 ## 📥 How to Install
 
-### 🔗 1. [Download the Saga Lite Mod](https://gofile.io/d/ZW7w2R)
+### 🔗 1. [Download the Saga Lite Mod]([https://gofile.io/d/ZW7w2R](https://github.com/bigcheesh/saga-lite/releases/tag/v1.4))
 
 > 📁 This ZIP file includes everything you need.
 
